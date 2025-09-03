@@ -31,9 +31,12 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario B201 del curso 
 **3.)  Rodrigo Celis Velez de Villa**
 
 <img width="1428" height="1071" alt="image" src="https://github.com/user-attachments/assets/94407a4a-931d-44ca-9580-d87bf8838a4c" />
-**EDAD: ** 17 años
-**PASATIEMPOS: ** Ir al gym, escuchar música, dormir, planes tranquilos y todo tipo de animales, desde ratones hasta caballos.
-**VOCACIÓN: ** Elegí estudiar ingeniería biomédica debido a que me apasiona mucho el vínculo tecnológico y médico que tiene esta carrera, además que me interesa la idea de poder aportar a la sociedad en el aspecto sanitario. Llevar este curso me emociona debido al aprendizaje en grupo que tendremos para nuestra carrera universitaria.
+
+**EDAD:** 17 años
+
+**PASATIEMPOS:** Ir al gym, escuchar música, dormir, planes tranquilos y todo tipo de animales, desde ratones hasta caballos.
+
+**VOCACIÓN:** Elegí estudiar ingeniería biomédica debido a que me apasiona mucho el vínculo tecnológico y médico que tiene esta carrera, además que me interesa la idea de poder aportar a la sociedad en el aspecto sanitario. Llevar este curso me emociona debido al aprendizaje en grupo que tendremos para nuestra carrera universitaria.
 
 **4.) Natalia Andrea Baquerizo Dávila**
 
