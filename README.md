@@ -65,3 +65,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario B201 del curso 
 
 **VOCACIÓN:** Espero que el curso de Procesos de innovación en Bioingeniería me brinde las bases para aplicar la creatividad y la tecnología en el desarrollo de soluciones innovadoras en salud a través de la realización de proyectos en equipo para desempeñarme en mi vocación, la ingeniería biomédica.
 
+# Apreciamos tu visita a nuestro repertorio.
+
+Esperamos que la visita a nuestro repertorio haya proporcionado interés e inspiración en la tecnología médica y los proyectos que se relacionan a esta. Buscamos proporcionar información y así posteriormente aportar en el sistema sanitario para la humanidad.
+
