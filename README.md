@@ -50,9 +50,9 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario B201 del curso 
 
 **5.) Miguel Mathias Chahuillco Quispe**
 
-**EDAD:** 17 años
-
 <img width="725" height="1170" alt="image" src="https://github.com/user-attachments/assets/0558d7e4-ed5c-4219-b0c1-02a22e3bf901" />
+
+**EDAD:** 17 años
 
 **PASATIEMPOS:** Me gusta hacer de todo, pero especificamente puede ser jugar futbol, ir al gym, ver peliculas, escuchar demasiada musica, visitar ferias y jugar valorant
 
