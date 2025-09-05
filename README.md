@@ -1,5 +1,7 @@
 # Grupo Biogang
 
+<img width="1600" height="1135" alt="image" src="https://github.com/user-attachments/assets/89d05cde-47af-484d-acc6-45f0e642abe5" />
+
 # DESCRIPCIÓN DEL GRUPO 🌱​
 Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario B201 del curso "Procesos de innovación en bioingeniería”. Creamos este repositorio como parte de aprendizaje del curso, en el llevaremos a cabo un proyecto de biodiseño.
 
